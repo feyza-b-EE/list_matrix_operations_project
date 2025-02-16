@@ -4,10 +4,6 @@ Created on Sat Nov 25 20:33:46 2023
 
 @author: Feyza
 """
-my_name = "Ayse Feyza Birer"
-my_id = "220102002033"
-my_email = "a.birer2022@gtu.edu.tr"
-
 def problem1(row=" ",column=" "):
     result = ""
     if row == 1 and column == 1:
